@@ -39,4 +39,4 @@ class GB2312Prober(MultiByteCharSetProber):
 
     @property
     def charset_name(self):
-        return "GB2312"
+        return "GB18030"
